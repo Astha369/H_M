@@ -1,0 +1,96 @@
+.body{
+    background-color: rgb(226, 217, 217);
+}
+
+.form_body{
+    align-items: center;
+    background-color: #86b6f5;
+    margin: 60px 60px 60px 60px;
+    padding: 10px 40px 40px 40px;
+    font-size: 40px;
+}
+
+.head{
+    text-align: center;
+}
+
+input[type=radio]{
+    /* size: 40px;
+     */
+     height: 25px;
+     width: 25px;
+}
+
+
+
+
+input[type=radio]{
+    size: 40px;
+}
+
+input[type=number]
+{
+    border: none;
+    border-bottom: 2px solid white;
+    vertical-align: middle;
+    height: 40px;
+    width: 25%;
+    
+}
+
+.tab{
+    /* display: block;
+    margin-right: 40px; */
+    padding-left: 80px;
+}
+
+/* input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+    border-bottom: 2px solid white;
+    vertical-align: middle;
+    height: 40px;
+    width: 25%;
+    margin: 0; 
+} */
+
+.tble{
+    border: 1px;
+    text-align: center;
+    /* padding: 20px 20px 20px 20px; */
+}
+
+th{
+    height: 40px;
+    width: 160px;
+}
+
+td{
+    height: 40px;
+    width: 160px;
+}
+
+.tb{
+    /* width: inherit; */
+    width: 1060px;
+    margin: 0px;
+}
+
+input[type=text]{
+    /* align-items: center; */
+    vertical-align: middle;
+    border: none;
+    border-bottom: 2px solid white;
+    height: 40px;
+    width: 25%;
+}
+
+select{
+    font-size: 30px;
+    vertical-align: middle;
+    height: 50px;
+}
+
