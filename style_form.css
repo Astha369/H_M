@@ -38,6 +38,33 @@ input[type=number]
     
 }
 
+input[type=tel]
+{
+    border: none;
+    border-bottom: 2px solid white;
+    vertical-align: middle;
+    height: 40px;
+    width: 25%;
+}
+
+input[type=email]
+{
+    border: none;
+    border-bottom: 2px solid white;
+    vertical-align: middle;
+    height: 40px;
+    width: 25%;
+}
+
+input[type=date]
+{
+    border: none;
+    border-bottom: 2px solid white;
+    vertical-align: middle;
+    height: 40px;
+    width: 25%;
+}
+
 .tab{
     /* display: block;
     margin-right: 40px; */
